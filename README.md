@@ -4,19 +4,19 @@
 
 🌻 I'm a passionate **Software Developer** who transitioned into the tech world driven by a love for problem-solving and creating innovative solutions. My career journey has been fueled by a foundation in data analysis and research, which I now leverage to deliver impactful, scalable software.  
 
-🌐 I specialize in **Python, Java, Angular, Spring (Core, MVC, RESTful services, Security), React, Node.js, PHP, and Laravel**.  
+🌐 I specialize in **Python, Java, Angular, Spring (Core, MVC, RESTful services, Security), React, Node.js, and NextJs**.  
 
-📊 My background in data science and machine learning allows me to analyze complex datasets and build intelligent systems.  
+📊 My background in research, data science, and machine learning allows me to analyze complex datasets and build intelligent systems.  
 
 <h2>🌱 I'm Currently Learning: </h2>  
 🐍 Expanding my skills in **Python (Airflow, Superset)** for advanced data science and automation tasks.  
 🧰 Enhancing expertise in **AWS cloud technologies** (certificate expected February 2025) and contributing to full-stack development projects.  
-🌟 Exploring frameworks like **React**, **Spring Boot**, and **Laravel** to build dynamic, user-centric applications.  
+🌟 Exploring frameworks like **React**, **Spring Boot**, and **Next JS** to build dynamic, user-centric applications.  
 
 <h2>💡 I'm Looking to Collaborate On: </h2>  
 
 **Full-Stack Projects:**  
-- Building end-to-end applications using **Java**, **Spring**, **Angular**, **React**, **PHP**, **Laravel**, and **Node.js**.  
+- Building end-to-end applications using **Java**, **Spring**, **Angular**, **ReactJs**, **React Native**, **Next JS** and **Node.js**.  
 - Creating scalable APIs and efficient backend systems.  
 
 **Data Science and Automation:**  
@@ -24,7 +24,7 @@
 - Building machine learning models and AI-driven systems for real-world applications.  
 
 **Open Source Contributions:**  
-- Collaborating on **Java**, **Python**, **React**, **PHP**, or **Laravel** projects.  
+- Collaborating on full-stack applications.  
 - Fixing bugs, enhancing features, and learning from the open-source community.  
 
 **Collaborative Development:**  
